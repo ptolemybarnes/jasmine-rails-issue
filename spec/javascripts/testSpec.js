@@ -1,3 +1,4 @@
+// this unknown variable causes phantomjs to lock up
 unknownVar
 
 describe("TestSpec", function() {

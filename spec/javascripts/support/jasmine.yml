@@ -48,7 +48,3 @@ spec_files:
 # (spec runner and asset cache)
 # defaults to tmp/jasmine
 tmp_dir: "tmp/jasmine"
-
-# try and use the phantom executable on the current PATH
-# https://github.com/searls/jasmine-rails#phantomjs-binary
-use_phantom_gem: false
